@@ -7,7 +7,7 @@ export default function Results({ element, artwork }) {
   return (
     <div>
       <p>
-        <strong>{name}</strong>, your element is: {element}
+        <strong>{name}</strong>, your dog is: {element}
       </p>
       {artwork ? (
         <div className="artwork">

@@ -32,35 +32,35 @@ const questions = [
 
 
 const dogBreeds = {
-  Fire: "australian",
-  Water: "labrador",
-  Earth: "bulldog",
-  Air: "beagle",
+  australian: "australian",
+  labrador: "labrador",
+  bulldog: "bulldog",
+  beagle: "beagle",
 };
 
 
 
 const elements = {
-  "Red 🔴": "Fire",
-  "Blue 🔵": "Water",
-  "Green 🟢": "Earth",
-  "Yellow 🟡": "Air",
-  "Spring 🌸": "Earth",
-  "Summer ☀️": "Fire",
-  "Fall 🍂": "Air",
-  "Winter ❄️": "Water",
-  "Morning 🌅": "Fire",
-  "Afternoon ☀️": "Air",
-  "Evening 🌇": "Earth",
-  "Night 🌙": "Water",
-  "Hiking 🏞️": "Earth",
-  "Reading 📚": "Air",
-  "Cooking 🍳": "Fire",
-  "Gaming 🎮": "Water",
-  "Cat 🐱": "earth",
-  "Dog 🐶": "Fire",
-  "Bird 🦜": "Air",
-  "Fish 🐟": "Water",
+  "Red 🔴": "australian",
+  "Blue 🔵": "labrador",
+  "Green 🟢": "bulldog",
+  "Yellow 🟡": "beagle",
+  "Spring 🌸": "bulldog",
+  "Summer ☀️": "australian",
+  "Fall 🍂": "beagle",
+  "Winter ❄️": "labrador",
+  "Morning 🌅": "australian",
+  "Afternoon ☀️": "beagle",
+  "Evening 🌇": "bulldog",
+  "Night 🌙": "labrador",
+  "Hiking 🏞️": "bulldog",
+  "Reading 📚": "beagle",
+  "Cooking 🍳": "australian",
+  "Gaming 🎮": "labrador",
+  "Cat 🐱": "bulldog",
+  "Dog 🐶": "australian",
+  "Bird 🦜": "beagle",
+  "Fish 🐟": "labrador",
 };
 
 
